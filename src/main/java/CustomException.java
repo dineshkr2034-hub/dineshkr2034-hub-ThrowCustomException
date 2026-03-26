@@ -7,4 +7,9 @@
  * There is no need to modify this class.
  */
 public class CustomException extends Exception{
+
+    public CustomException(String string) {
+        //TODO Auto-generated constructor stub
+    }
+
 }
